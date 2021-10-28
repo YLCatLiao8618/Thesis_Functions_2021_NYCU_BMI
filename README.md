@@ -1,1 +1,2 @@
 # Thesis_Stat_Functions_2021
+This repository contains python code written for the repository creator's thesis. Most of the code are for performing statistical tests, including Z tests, normality tests, Mann Whitney U tests and correlation. Code was tailored for the data used in the thesis. This repository was created for self-education and references purposes, further usage should be used for education purposes only.
