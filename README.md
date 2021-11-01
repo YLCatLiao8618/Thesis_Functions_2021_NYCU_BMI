@@ -7,3 +7,8 @@ Statistical tests written include
 - Mann Whitney U tests
 - Correlation (pearson)
 - F tests
+
+Other functions include
+- Propensity Score Matching
+- Boxplots
+- Counting people
