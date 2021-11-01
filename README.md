@@ -6,6 +6,7 @@ Statistical tests written include
 - Normality tests 
 - Mann Whitney U tests
 - Correlation (pearson)
+- Kolmogorov–Smirnov test
 - F tests
 
 Other functions include
